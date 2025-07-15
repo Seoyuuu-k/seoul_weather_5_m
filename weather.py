@@ -8,7 +8,6 @@ city_name = "Seoul"
 url =f"https://api.openweathermap.org/data/2.5/weather?q={city_name}&appid={WEATHER_API_KEY}&units=metric"
 response = requests.get(url)
 result = response.json()
-result
 # 깃허브에 배포
 
 
