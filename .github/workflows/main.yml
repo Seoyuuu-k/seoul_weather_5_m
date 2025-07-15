@@ -1,6 +1,6 @@
 # yml 형식으로 
 # 서울 날씨를 5분마다 csv로 저장!
-name: Seoul Weather Data Per 5min
+name: Seoul Weather Data Per 5
 
 on: #작업을 수행하는 조건
   schedule: # 스케쥴링
